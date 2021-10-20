@@ -79,4 +79,6 @@ nav a:hover::before {
     width: 80%;
 }
 
-/*dummy line for merge conflict */
+p {
+    color: pink;
+}
