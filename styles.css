@@ -79,9 +79,15 @@ nav a:hover::before {
     width: 80%;
 }
 
+p {
+    color     : rosybrown;
+    transition: all ease-in-out 500ms;
+}
+
 em:hover {
     animation : ease-in-out;
-    /* Really important comment */
+    /*Not that important comment */
     color     : rgba(115, 161, 55, 0.5);
     transition: all ease-in-out 200ms;
+    /* Subsequent comments */
 }
