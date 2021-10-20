@@ -1,0 +1,81 @@
+#body {
+    background-image : url(yes.jpg);
+    background-color : powderblue;
+    background-repeat: no-repeat;
+    background-size  : cover;
+
+}
+
+.navbar {
+    background-color: #2b2a2a;
+}
+
+.navbar p {
+    color: royalblue;
+}
+
+.main-content {
+    background-color: rgb(55, 62, 161, .5);
+    padding         : 10px;
+    height          : max-content;
+    width           : max-content;
+    margin-top      : 30px;
+    border-radius   : 10px;
+}
+
+.page-footer {
+    background-color: rgba(58, 58, 58, 0.5);
+    color           : #ccc;
+    padding         : 5px;
+    height          : 90px;
+    position        : fixed;
+    width           : 100%;
+    bottom          : 0;
+    margin          : 0;
+}
+
+/* 
+.mistake {
+    border-radius   : 25px;
+    background-color: rgba(110, 117, 212, 0.5);
+    width           : 3000px;
+} */
+
+/* Feature branch step 4
+nav ul {
+    top       : 0;
+    margin    : 0;
+    padding   : 0;
+    list-style: none;
+
+}
+
+nav li {
+    display : inline-block;
+    margin  : 10px;
+    position: relative;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+
+nav a::before {
+    content         : '';
+    display         : block;
+    height          : 5px;
+    background-color: #b3fffb;
+    position        : absolute;
+    top             : 6px;
+    width           : 0%;
+    transition      : all ease-in-out 250ms;
+}
+
+nav a:hover::before { 
+    width: 80%;
+/*dummy line for merge conflict
+} */
