@@ -79,7 +79,13 @@ nav a:hover::before {
     width: 80%;
 }
 
+p:hover {
+    color     : rosybrown;
+    transition: all ease-in-out 500ms;
+}
+
 em:hover {
     color     : gold;
     transition: all ease-in-out 200ms;
+
 }
