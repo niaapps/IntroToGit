@@ -6,6 +6,7 @@
 * push
 * commit
 * and much more!
+* Marin was here hi!! 
 
 ## Find the recording [here.]()
 
