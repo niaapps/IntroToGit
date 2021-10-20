@@ -41,7 +41,7 @@
     width           : 3000px;
 } */
 
-/* Feature branch step 4
+
 nav ul {
     top       : 0;
     margin    : 0;
@@ -75,7 +75,8 @@ nav a::before {
     transition      : all ease-in-out 250ms;
 }
 
-nav a:hover::before { 
+nav a:hover::before {
     width: 80%;
-/*dummy line for merge conflict
-} */
+}
+
+/*dummy line for merge conflict */
