@@ -80,6 +80,6 @@ nav a:hover::before {
 }
 
 em:hover {
-    color     : gold;
+    color     : rgba(115, 161, 55, 0.5);
     transition: all ease-in-out 200ms;
 }
