@@ -7,11 +7,11 @@
 * commit
 * and much more!
 
-## Find the recording [here.]()
+## Find the recording [here.](https://drive.google.com/file/d/1MW5gExHUe_NhfmoMSoJWfX3l-O221dPC/view)## Find the recording [here.]()
 
 * Marin was here hi!! 
 * Videsh was here
-## Find the recording [here.](https://drive.google.com/file/d/1MW5gExHUe_NhfmoMSoJWfX3l-O221dPC/view)
+
 
 
 ### Contact 
